@@ -1,5 +1,8 @@
-# 👨‍💻 About Me:
-🌱 I’m currently learning React deeply<br>💬 Ask me about React, Vue, Angular and Java Spring<br>📫 How to reach me sefaa.karabas@gmail.com<br>
+# 👨‍💻 &nbsp;About Me:
+
+🌱 I’m currently learning React deeply<br>
+💬 Ask me about React, Vue, Angular and Java Spring<br>
+📫 How to reach me sefaa.karabas@gmail.com<br>
 
 
 ## 🌐 Socials:
@@ -62,5 +65,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sefakrb&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
