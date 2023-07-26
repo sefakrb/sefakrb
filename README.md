@@ -1,6 +1,6 @@
 # 👨‍💻 &nbsp;About Me:
 
-🌱 I’m currently learning React deeply<br>
+🌱 I’m currently learning React and Spring deeply<br>
 💬 Ask me about React, Vue, Angular and Java Spring<br>
 📫 How to reach me sefaa.karabas@gmail.com<br>
 
