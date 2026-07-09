@@ -12,7 +12,7 @@
 
 ## 💫 About Me
 
-- 🔭 Currently working as **Software Engineer** in the Aviation Industry
+- 🔭 Currently working as **Software Engineer** in the Online Learning Industry
 - 💼 Specializing in financial systems, payment integrations, and microservices architecture
 - 🚀 Experienced in building scalable applications and modern cloud-native solutions
 - 📫 Reach me: [sefaa.karabas@gmail.com](mailto:sefaa.karabas@gmail.com)
